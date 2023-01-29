@@ -47,3 +47,5 @@ group :development do
 end
 
 gem "jwt", "~> 2.6"
+
+gem "faker", "~> 3.1"
