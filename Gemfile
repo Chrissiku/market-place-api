@@ -51,3 +51,5 @@ gem "jwt", "~> 2.6"
 gem "faker", "~> 3.1"
 
 gem "jsonapi-serializer", "~> 2.2"
+
+gem "kaminari", "~> 1.2"
